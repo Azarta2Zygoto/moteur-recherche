@@ -11,6 +11,8 @@ Il a pour but la mise en place d'un moteur de recherche dans le cadre d'un cours
 
 **Attention :** Il est nécessaire d'ajouter le fichier corpus.jsonl dans le dossier `data` comme celui-ci est trop lourd pour être partagé sur GitHub.
 
+Toutes les données doivent être mis dans un dossier data à la racine du projet.
+
 
 ## Structure
 
